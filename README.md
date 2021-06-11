@@ -48,3 +48,10 @@ https://www.linkedin.com/in/gabriel--jesus/
 **Server:** Node, Express, nodemon, scurase
 
   
+## Contributing
+
+Contributions are always welcome!
+
+To contribute to the project, create a branch from main, and request a pull request
+
+  
